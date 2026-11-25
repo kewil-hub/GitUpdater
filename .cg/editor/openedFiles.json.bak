@@ -1,0 +1,21 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/CodeOnTheGoProjects/My Application1/app/src/main/java/com/example/myapplication1/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 7775,
+          "line": 194
+        },
+        "start": {
+          "column": 0,
+          "index": 7775,
+          "line": 194
+        }
+      }
+    }
+  ],
+  "projectPath": "/storage/emulated/0/CodeOnTheGoProjects/My Application1",
+  "selectedFile": "/storage/emulated/0/CodeOnTheGoProjects/My Application1/app/src/main/java/com/example/myapplication1/MainActivity.java"
+}
